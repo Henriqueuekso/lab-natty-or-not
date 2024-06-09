@@ -21,22 +21,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
-
+Modelos humanos fotorrealistas com IA's gratuitas.
 ## 📒 Descrição
 Breve descrição do seu projeto
-
+Nesse projeto, o objetivo foi criar uma rede social com um ser humano gerado por IA, altamente realista, apartir de prompts detalhados para dar ênfase no máximo de realismo possível.
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+#Liste as IAs Generativas e outras ferramentas usadas
+As únicas ferramentas usadas foram o stable diffusion com a ferramente "Realistic Vision v2.0" acoplada no sistema do stable diffusion.
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+ é necessário instalar o stabble diffusion, juntamente com as ia's fotorrealistas, não vou detalhar como fazer pois demoraria muito, na internet tem muitos vídeos explicando.
+Após instalar as ferramentas, criei uma conta no instagram. Com isso, inseri os prompts no programa. é importante lembrar que os prompts devem ser detalhados, por exemplo: Sombras destacadas, iluminação volumétrica, sardas no rosto, 4K alta definição, etc... É necessário o máximo de detalhes para o máximo de realismo possível.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+ https://www.instagram.com/jazebelgrace/
+postei 3 fotos iniciais, talvez poste mais em breve
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Foi algo diferente, imagino o que pode ser usado com tanta capacidade de realismo no futuro. tanto a parte ruim quanto a parte boa.
 
 ### Exemplos e Insigths
 
